@@ -1,5 +1,2 @@
 # GenType I
-This was mostly built for ROBLOX, but I guess it works for anything.
-
-Built using Bootstrap.
-Coded in Javascript by Lava#4650.
+Built using Bootstrap CSS with custom JavaScript coding
